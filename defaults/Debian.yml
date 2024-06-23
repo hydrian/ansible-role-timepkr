@@ -1,0 +1,6 @@
+---
+data_path: "/var/lib/timekpr"
+config_path: "{{TIMEKPR_DATA_PATH}}/config"
+package_names:
+  - "timekpr"
+
